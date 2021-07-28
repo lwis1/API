@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color:palevioletred
+}
+.users table{
+    background-color: peru;
+    margin: auto;
+    width: 700px;
+}
+.users table td{
+       text-align: center;
+}
